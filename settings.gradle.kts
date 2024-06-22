@@ -1,0 +1,2 @@
+rootProject.name = "NookureStaff-Compatibility"
+
