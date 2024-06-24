@@ -21,6 +21,7 @@ dependencies {
 }
 
 bukkit {
+  name = "NookureStaff-Compatibility"
   main = "com.nookure.staff.NookureStaffCompatibility"
   author = "Angelillo15"
   version = rootProject.version.toString()
